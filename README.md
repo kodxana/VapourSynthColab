@@ -1,4 +1,4 @@
-# VapourSynthColab (Updated 23.08.2021)
+# VapourSynthColab (Updated 23.08.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kodxana/VapourSynthColab/blob/main/VapourSynthColab(2021).ipynb)
 
 A Google Colab notebook set up for both conventional and machine learning-based video processing. Run ESRGAN or MXNet models, OpenCL and CUDA filters, and CPU filters on video frames simultaneously in VapourSynth scripts, or use VapourSynth filters to pre/post process videos for other ML Colab projects, and do it all in the cloud for free. 
 
