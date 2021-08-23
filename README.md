@@ -1,4 +1,4 @@
-# VapourSynthColab
+# VapourSynthColab (Updated 23.08.2021)
 
 A Google Colab notebook set up for both conventional and machine learning-based video processing. Run ESRGAN or MXNet models, OpenCL and CUDA filters, and CPU filters on video frames simultaneously in VapourSynth scripts, or use VapourSynth filters to pre/post process videos for other ML Colab projects, and do it all in the cloud for free. 
 
